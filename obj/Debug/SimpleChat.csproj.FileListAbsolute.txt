@@ -1,0 +1,13 @@
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\SimpleChat.dll
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\SimpleChat.pdb
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\Assembly-CSharp.dll
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\Qurre.dll
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\UnityEngine.dll
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\System.Memory.dll
+C:\Users\ohayo\source\repos\SimpleChat\bin\Debug\System.Buffers.dll
+C:\Users\ohayo\source\repos\SimpleChat\obj\Debug\SimpleChat.csproj.AssemblyReference.cache
+C:\Users\ohayo\source\repos\SimpleChat\obj\Debug\SimpleChat.csproj.CoreCompileInputs.cache
+C:\Users\ohayo\source\repos\SimpleChat\obj\Debug\SimpleChat.csproj.CopyComplete
+C:\Users\ohayo\source\repos\SimpleChat\obj\Debug\SimpleChat.dll
+C:\Users\ohayo\source\repos\SimpleChat\obj\Debug\SimpleChat.pdb
