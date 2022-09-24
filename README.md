@@ -1,3 +1,3 @@
 # Hi all / Всем привет
 
-The simplest chat system for Qurre SCP:SL
+Documentation will appear later.
